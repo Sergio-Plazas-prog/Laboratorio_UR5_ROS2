@@ -1,1 +1,0 @@
-# Laboratorio_UR5_ROS2
